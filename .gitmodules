@@ -1,4 +1,4 @@
 [submodule "thirdparty/com.unity.uiwidgets"]
 	path = thirdparty/com.unity.uiwidgets
-	url = git@marstau.github.com:marstau/com.unity.uiwidgets.git
+	url = git@gitee.com:jxtgddlt2/com.unity.uiwidgets.git
 	branch = 2.0.4
